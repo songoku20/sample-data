@@ -1,0 +1,41 @@
+<?xml version=\"1.0\" encoding=\"UTF-8\"?>
+      <VAST xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" version=\"3.0\" xsi:noNamespaceSchemaLocation=\"vast.xsd\">
+         <Ad id=\"1\" sequence=\"1\">
+            <InLine>
+               <AdSystem>FreeWheel</AdSystem>
+               <AdTitle>Ooyla test m3u8 midroll 1</AdTitle>
+               <Error><![CDATA[http://g1.v.fwmrm.net/ad/l/1?s=a032&amp;n=164515&amp;t=1366755844262714011&amp;adid=2447226&amp;reid=1698599&amp;arid=0&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;et=e&amp;cn=[ERRORCODE]]]></Error>
+               <Impression id=\"FWi_2447226.0\"><![CDATA[http://g1.v.fwmrm.net/ad/l/1?s=a032&amp;n=164515&amp;t=1366755844262714011&amp;adid=2447226&amp;reid=1698599&amp;arid=0&amp;auid=&amp;cn=defaultImpression&amp;et=i&amp;_cc=&amp;tpos=15&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;metr=121&amp;init=1&amp;_dic=1&amp;cr=]]></Impression>
+               <Creatives>
+                  <Creative AdID=\"2447226\">
+                     <Linear>
+                        <Duration>00:00:60</Duration>
+                        <TrackingEvents>
+                           <Tracking event=\"complete\"><![CDATA[http://g1.v.fwmrm.net/ad/l/1?s=a032&amp;n=164515&amp;t=1366755844262714011&amp;adid=2447226&amp;reid=1698599&amp;arid=0&amp;auid=&amp;cn=complete&amp;et=i&amp;_cc=&amp;tpos=15&amp;init=1&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;metr=121]]></Tracking>
+                           <Tracking event=\"firstQuartile\"><![CDATA[http://g1.v.fwmrm.net/ad/l/1?s=a032&amp;n=164515&amp;t=1366755844262714011&amp;adid=2447226&amp;reid=1698599&amp;arid=0&amp;auid=&amp;cn=firstQuartile&amp;et=i&amp;_cc=&amp;tpos=15&amp;init=1&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;metr=121]]></Tracking>
+                           <Tracking event=\"midpoint\"><![CDATA[http://g1.v.fwmrm.net/ad/l/1?s=a032&amp;n=164515&amp;t=1366755844262714011&amp;adid=2447226&amp;reid=1698599&amp;arid=0&amp;auid=&amp;cn=midPoint&amp;et=i&amp;_cc=&amp;tpos=15&amp;init=1&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;metr=121]]></Tracking>
+                           <Tracking event=\"thirdQuartile\"><![CDATA[http://g1.v.fwmrm.net/ad/l/1?s=a032&amp;n=164515&amp;t=1366755844262714011&amp;adid=2447226&amp;reid=1698599&amp;arid=0&amp;auid=&amp;cn=thirdQuartile&amp;et=i&amp;_cc=&amp;tpos=15&amp;init=1&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;metr=121]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                           <ClickTracking id=\"FWc_2447226.0\"><![CDATA[http://g1.v.fwmrm.net/ad/l/1?s=a032&amp;n=164515&amp;t=1366755844262714011&amp;adid=2447226&amp;reid=1698599&amp;arid=0&amp;auid=&amp;cn=defaultClick&amp;et=c&amp;_cc=&amp;tpos=15&amp;cr=]]></ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                           <MediaFile delivery=\"progressive\" type=\"video/mp4\" bitrate=\"325\" width=\"640\" height=\"360\"><![CDATA[http://techslides.com/demos/sample-videos/small.mp4]]></MediaFile>
+                        </MediaFiles>
+                     </Linear>
+                  </Creative>
+                  <Creative>
+                     <CompanionAds>
+                        <Companion width=\"640\" height=\"360\">
+                           <StaticResource creativeType=\"image/jpeg\"><![CDATA[http://www.eleventsuki.com/wp-content/uploads/2016/01/Gekijou-ban-Kyoukai-no-Kanata-Ill-Be-Here-Mirai-hen-1.jpg]]></StaticResource>
+                           <TrackingEvents>
+                              <Tracking event=\"creativeView\"><![CDATA[http://g1.v.fwmrm.net/ad/l/1?s=a032&amp;n=164515&amp;t=1366755844262714011&amp;adid=2447226&amp;reid=1698599&amp;arid=0&amp;auid=&amp;cn=defaultClick&amp;et=c&amp;_cc=&amp;tpos=15&amp;cr=]]></Tracking>
+                           </TrackingEvents>
+                           <CompanionClickThrough><![CDATA[http://g1.v.fwmrm.net/ad/l/1?s=a032&amp;n=164515&amp;t=1366755844262714011&amp;adid=2447226&amp;reid=1698599&amp;arid=0&amp;auid=&amp;cn=defaultClick&amp;et=c&amp;_cc=&amp;tpos=15&amp;cr=]]></CompanionClickThrough>
+                        </Companion>
+                     </CompanionAds>
+                  </Creative>
+               </Creatives>
+            </InLine>
+         </Ad>
+      </VAST>"
